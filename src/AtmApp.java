@@ -10,9 +10,16 @@ public class AtmApp {
         //versiyon4
         System.out.println("betul branchi kodlarını yazdı.");
         //btl1
+<<<<<<< Updated upstream
         System.out.println("");
         //btl3
+=======
+        System.out.println();
+        if(true){
+            System.out.println();
+>>>>>>> Stashed changes
 
+        }
 
 
 
