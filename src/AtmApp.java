@@ -13,11 +13,12 @@ public class AtmApp {
 <<<<<<< Updated upstream
         System.out.println("");
         //btl3
-=======
+
         System.out.println();
         if(true){
             System.out.println();
->>>>>>> Stashed changes
+
+
 
         }
 
